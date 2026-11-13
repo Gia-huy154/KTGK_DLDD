@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_primary_dark">#1B5E20</color>
+    <color name="green_accent">#4CAF50</color>
+    <color name="green_light">#E8F5E9</color>
+    <color name="status_available_bg">#E8F5E9</color>
+    <color name="status_available_text">#2E7D32</color>
+    <color name="status_booked_bg">#FFF3E0</color>
+    <color name="status_booked_text">#E65100</color>
+    <color name="status_cancelled_bg">#FFEBEE</color>
+    <color name="status_cancelled_text">#C62828</color>
+    <color name="bg_main">#F5F7FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#666666</color>
+    <color name="divider">#E0E0E0</color>
+</resources>
